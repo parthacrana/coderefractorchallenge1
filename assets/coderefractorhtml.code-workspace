@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/prework-study-guide (1)/prework-study-guide/assets"
+		},
+		{
+			"name": "UCB-VIRT-FSF-FT-06-2024-U-LOLC",
+			"path": "../../code/UCB-VIRT-FSF-FT-06-2024-U-LOLC"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UCB-VIRT-FSF-FT-06-2024-U-LOLC"
+	}
+}
