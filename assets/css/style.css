@@ -89,6 +89,12 @@ a {
     /* added lead brand and cost attributes in general benifits */
     margin-bottom: 32px;
     color: #ffffff;
+
+    /* ----------------- */
+    .benefits h3 {
+        margin-bottom: 10px;
+        text-align: center;
+    }
 }
 
 /* .benefit-lead {                      lead, brand, cost, not needed to be seperate
@@ -106,8 +112,9 @@ a {
     color: #ffffff; */
 /* } */
 
-/* ------------------------------------------------------ */
-.benefit-lead h3 {
+/* --------------------------------------------- */
+/*                                 combined bottom attributes with .benefits class */    
+/* .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -120,8 +127,8 @@ a {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
-
+} */
+/* ------------------------------------------------------------ */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
